@@ -1,6 +1,6 @@
 ## Reporte Clima
 
-Se obtine el clima de una localidad a través del terminar.
+Se obtine el clima de una localidad a través del terminal.
 
 ```
 npm install
